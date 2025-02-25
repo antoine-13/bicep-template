@@ -7,7 +7,7 @@ Ce dépot à pour objectif de stocker les différents templates bicep utilisées
 
 ## Installation
 
-Pour déployer des fichiers Bicep, vous devez disposer d’Azure PowerShell version 5.6.0 ou ultérieure.
+Pour déployer des fichiers Bicep, vous devez disposer d’Azure PowerShell version 9.7.1 ou ultérieure.
 
 ```Powershell
   Install-Module -Name Az -Repository PSGallery -Force
